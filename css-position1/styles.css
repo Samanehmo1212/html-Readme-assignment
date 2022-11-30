@@ -4,5 +4,9 @@ body {
 
 .container {
   background-color: bisque;
-  height: 30em; /* vh vw em rem */
-}
+  height: 20em; /* vh vw em rem */
+  width:6em;
+  display :flex;
+  align-items: center;
+  }
+
