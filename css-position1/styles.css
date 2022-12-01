@@ -1,12 +1,18 @@
+*{
+	padding:0;
+	margin:0;
+	
+}
 body {
   background: white;
 }
 
 .container {
   background-color: bisque;
-  height: 20em; /* vh vw em rem */
+  height: 30em; /* vh vw em rem */
   width:6em;
-  display :flex;
-  align-items: center;
-  }
-
+  margin:10px; 
+  display:flex;
+  align-items:center;
+  
+}
